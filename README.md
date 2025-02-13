@@ -1,6 +1,6 @@
 Hardware components used for this project:
 
-* An Arduino UNO r4 (Should work on any Arduino board with compatible pinout);
+* 1 Arduino UNO r4 (Should work on any Arduino board with compatible pinout);
 * 4 push buttons;
 * 4 LED's being 1 blue, 1 green, 1 red and 1 yellow;
 * 1 buzzer;
