@@ -12,4 +12,4 @@ Circuit design:
 
 ![image](https://github.com/user-attachments/assets/67555b21-d1f3-4185-9b5b-c85cbcab81e0)
 
-![image](https://github.com/user-attachments/assets/7304f703-1a7e-40ad-b8cf-036d76af8bb3)
+![image](https://github.com/user-attachments/assets/8f7277ef-f41f-4c66-b3ae-b1a42ff37b00)
